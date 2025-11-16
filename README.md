@@ -27,7 +27,11 @@ Gerekli Kütüphaneler:
 📌 Kullanım Alanları
 
 🔹 Finansal modelleme
+
 🔹 Zaman serisi tahmini
+
 🔹 Ekonomi araştırmaları
+
 🔹 Kripto–emtia korelasyon analizi
+
 🔹 Trading strateji testleri
